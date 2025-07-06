@@ -8,15 +8,26 @@
 #let line-spacing=0.65em * 1.5
 #set par(justify: true, leading: line-spacing )
 
+#align(left, [
+  #figure(
+    image("Logos/Studiobühne_Logo.png", width: 60%),
+  )
+])
 // Titelblatt
-#align(center, text(18pt)[
+#align(center, text(36pt)[
   *Kompendium*\
 ])
-#align(center, text(16pt)[
+#align(center, text(22pt)[
   *Regelwerk des Würzburger UniTheaters*\
 ])
 
-
+#place(bottom)[
+#grid(
+  columns: (1fr, 1fr),
+  image("Logos/StuV_Logo.png", width: 50%),
+  image("Logos/Studierendenwerk Logo.jpg", width: 100%)
+)
+]
 // Inhaltsverzeichnis
 #pagebreak()
 #outline(
