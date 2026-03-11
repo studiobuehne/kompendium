@@ -77,6 +77,19 @@ Das Programmheft enthält mindestens folgende Informationen:\
 - Der Firma MA Lighting für Ihre Unterstützung
 - Wenn Technik von Schenkspass geliehen wurden, ebenfalls Schenkspass danken.
 
+== Danksagung
+- Stuv Danken (Pia Grimm und Christine Vierheilig)
+- Studierendenwerk für die Unterstützung und Räumlichkeiten (keine konkreten Namen)
+- MA Lighting für die Unterstützung
+- —> geht in einem Satz!
+- Dem Orgateam der Studiobühne, insbesondere der Referatsleitung mit Namen
+- Wenn Technik der Firma SchenkSpass verwendet wird, ist dieser in der Danksagung zu danken
+- Werbung für uns: “Wenn ihr Lust habt bei uns mitzumachen, schaut auf unserer Website oder sprecht uns an.” Oder erstes Treffen, wenn das bald ist.
+- Nächstes Stück ankündigen, und wann das eigene Stück noch spielt
+- Publikum Danken für ihr Kommen
+- Spendenaufruf: Beim Spendenaufruf erwähnen, dass wir das Geld investieren, z.B. Technik, Stück Rechte, Bühnenbild. Formulierung soll wirklich zur Spende auffordern, nicht zu zaghaft 
+
+
 == Sensible Inhalte und Trigger
 Jede Produktion muss spätestens zwei Wochen vor Aufführungsbeginn die eigenen sensiblen Inhalte und Triggerwarnungen definiert und an die Referatsleitung weitergeleitet haben.\	
 Die entsprechenden Oberkategorien der Warnhinweise finden sich auf unserer Webseite und müssen bei expliziter Darstellung von den Stücken spezifiziert und erweitert werden. \
