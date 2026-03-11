@@ -10,7 +10,7 @@
 
 #align(left, [
   #figure(
-    image("Logos/Studiobühne_Logo.png", width: 60%),
+    image("Logos/Logo_Studiobuehne.png", width: 60%),
   )
 ])
 // Titelblatt
