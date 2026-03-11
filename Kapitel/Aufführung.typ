@@ -66,11 +66,12 @@ Außerdem müssen auf den DIN A3 Plakten auf der unteren Seite ein 4cm hoher Str
 Für das Publikum eurer Aufführungen muss ein Programmheft erstellt werden. Dieses ist bis spätestens Mittwochs vor der Generalprobe per E-Mail an die StuV zu senden.	\
 Die StuV übernimmt den Druck der Programmhefte, sprecht euch mit Frau Grimm und Frau Vierheilig ab, wann ihr sie abholen könnt.\
 Das Programmheft enthält mindestens folgende Informationen:\
-- Titel, Autor, Datum, Logos (Studi(o)bühne, StuV, Studierendenwerk), - QR-Code der eigenen Trigger-Seite
+- Titel, Autor, Datum, Logos (Studi(o)bühne, StuV, Studierendenwerk),
+- QR-Code der eigenen Trigger-Seite
 - Inhaltliche Angaben zum Stück
 - Schauspielende, Regie, Organisation, Backstage, Helfer:innen
 - Nachfolgende Aufführungen der Studi(o)bühne
-- Danksagungen an die Kooperationspartner:innen: Studierendenwerk Würzburg, insbesondere Herr Kampf, Herr Bundschuh, Herr Lemos, Herr Schirrmann und Frau Scheller
+- Danksagungen an die Kooperationspartner:innen: Studierendenwerk Würzburg, insbesondere Herr Kampf, Frau Brandl, Herr Fleischhauer, Herr Götz, Herr Henneberger, Frau Herbert, Herr Lemos, Herr Schirrmann, Frau Sadler und Frau Scheller
 - Studierendenvertretung, insbesondere Frau Grimm und Frau Vierheilig 
 - Dem Orga-Team der Studi(o)bühne, insbesondere namentlich der Referatsleitung 
 - Der Firma MA Lighting für Ihre Unterstützung
