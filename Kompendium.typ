@@ -8,6 +8,9 @@
 #let line-spacing=0.65em * 1.5
 #set par(justify: true, leading: line-spacing )
 
+#show link: set text(fill: blue)
+#show link: underline
+
 #align(left, [
   #figure(
     image("Logos/Logo_Studiobuehne.png", width: 60%),

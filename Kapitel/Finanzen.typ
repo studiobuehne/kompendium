@@ -12,6 +12,16 @@ Die Rechnungen von Aufführungsrechten, Textbüchern, Technik und Werbung gehen 
 Die Abrechnung der Ausgaben erfolgt in der Regel während der Probenzeit. Die Abrechnung muss aber bis spätestens 2 Wochen nach der Dernière erfolgt sein. \
 Außerdem muss eine Übersicht über alle Ausgaben und Einnahmen erstellt werden und ebenfalls 2 Wochen nach der Dernière an das Orgateam geschickt werden.	\
 
+
+== GEMA
+Die GEMA ist eine Verwertungsgesellschaft, die die Rechte von Komponist:innen, Textdichter:innen und Musikverleger:innen vertritt. Wenn ihr Musik in euren Aufführungen verwendet, die von der GEMA verwertet wird, müsst ihr die entsprechend anfallenden Kosten in eurem Kostenvoranschlag berücksichtigen.\
+Ihr könnt GEMA-Gebühren vermeiden, indem ihr Musik verwendet, die entweder gemeinfrei ist oder unter einer Creative-Commons-Lizenz steht, die die Nutzung erlaubt. Aber Achtung: Nur weil Musik nicht frei verfügbar ist, heißt das nicht automatisch, dass sie von der GEMA verwertet wird. Es gibt auch andere Verwertungsgesellschaften, die bestimmte Musikstücke vertreten. Über die #link("https://portal.gema.de/app/repertoiresuche/werksuche")[GEMA-Repertoiresuche-Datenbank] könnt ihr herausfinden, ob die Rechte für ein Musikstück bei der GEMA liegen. \
+Vor den Aufführungen muss dann über das Sekretariat der Studierendenvertretung die Veranstaltung bei der GEMA angemeldet werden.\
+Die anfallenden Kosten richten sich nach den Minuten der gespielten Musik und der Anzahl an Besucher:innen; zur Orientierung beim Sprechtheater dient dieses #link("https://www.gema.de/documents/20121/1599214/tarif_bm_version34-pdf/58f61fd3-efcd-94ac-f81f-5c7045901fdb?version=2.0&t=1761811873772")[GEMA-Onlinedokument]. 
+Wichtig zu beachten ist dabei vor allem, dass es einen Preissprung zwischen 450 und 500 Besucher:innen gibt und dass alles zwischen 1,5 und 45 Minuten je Vorstellung gespielter Musik bei uns als spendenbasiertes Theater gleich viel kostet. \
+Außerdem fällt für die öffentliche Wiedergabe noch die GVL an, die etwa 20% der GEMA-Gebühr beträgt.\
+Als kleine Referenz: Ein Stück mit 450 Besucher:innen und zwischen 1,5 und 45 Minuten gespielter Musik kostet damit aktuell ca. 91 € pro Aufführung, was bei den typischen 4 Aufführungen 364 € ergibt, die im Kostenvoranschlag berücksichtigt werden müssen.
+
 == Haushaltsjahr
 Das Haushaltsjahr der StuV beginnt am 01.12. und endet am 30.11. eines Jahres. Die Fristen für Kostenvoranschläge und Abrechnungen orientieren sich an diesem Zeitraum.	\
 Das bedeutet, dass die Abrechnung für die Winterspielzeit bis zum 30.11. des Jahres erfolgen muss. Später eingereichte Rechnungen können nicht erstattet werden.	\
