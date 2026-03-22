@@ -100,3 +100,20 @@ Bei Unklarheiten kann im Dokument "Ankerbeispiele für Trigger" _(siehe Regie/Or
 Nach der letzten Aufführung muss der Grundzustand sowohl im Mensasaal, auf der Bühne, als auch in den Fundi wiederhergestellt werden. Bei der Koordinierung unterstützen euch zwei Ansprechpersonen aus dem Orgateam. 	\
 Nachdem das Aufräumen beendet ist und die Fundi durch das Orgateam abgenommen wurden, werden diese verschlossen. Bei anschließenden Feierlichkeiten ist auf Lärmbelästigung zu achten, im Innenhof sowie auf den Balkonen darf nicht laut geschrien oder Musik abgespielt werden.\ 	
 Alle persönlichen Gegenstände müssen nach der Derniére aus der Mensa abtransportiert worden sein. Ausnahmen sind mit der Referatsleitung abzuklären.
+
+
+== Sicherheit bei Studiobühnen-Veranstaltungen
+
+Da bei den Aufführungen teilweise bis zu 500 BesucherInnen anwesend sind, ist es von großer Bedeutung, auf die geltenden Rechtlichen- und Veranstaltungssicherheitsbestimmungen zu achten. Es ist deshalb Pflicht der stückverantwortlichen Person, sich vor den Aufführungen damit auseinanderzusetzen, wie die Veranstaltung gemäß den geltenden Regelwerken sicher umgesetzt werden kann. Die wichtigsten Infos sind dabei in der #link("https://www.gesetze-bayern.de/Content/Document/BayVStaettV-6")[VStättV Teil 2 Abschnitt 3 und 4] festgeschrieben.
+ \
+Hier soll deswegen nur ein Überblick gegeben werden, der keinen Anspruch auf Vollständigkeit erhebt:\
+- Der Zugang zu allen Fluchttüren muss gewährleistet sein (Ausnahme: Kabufftür rechts während Aufführungen)
+- Kabel über Fluchtwegen müssen immer mit Kabelmatten gesichert werden, diese mit etwas Gaffa gegen verrutschen
+- Beim Bestuhlen sind alle Stühle einer Reihe ineinander zu verhaken. Stühle ohne Verhakungselemente dürfen nicht verwendet werden. Ebenfalls ist es wichtig, dass auch beim Nachbestuhlen immer alle Stühle einer Reihe miteinander verhakt werden!
+- Alle Fluchtwege (also alle Gänge zwischen Stuhlblöcken, zu den Türen etc) müssen mindestens 1,20m breit sein. Gerade für die Hauptgänge empfiehlt sich aber eine Breite von mindestens 1,50m
+- Zwischen den Sitzreihen muss eine Durchgangsbreite von mindestens 0,40m eingehalten werden
+- Jeder Block an Stühlen darf maximal 30 Reihen enthalten
+- Zwischen den Blöcken müssen jeweils Fluchtwege mit mindestens 1,20m freigehalten werden
+- Seitlich eines Gangs dürfen maximal 10 Plätze, zwischen zwei Gängen maximal 20 Plätze eine Reihe bilden
+- Es dürfen aus Brandschutzgtürnden maximal 500 Personen teilnehmen. Personen darüber hinaus dürfen auch nicht im Saal stehen oder sitzen, sondern müssen den Saal unter allen Umständen verlassen. Es bewährt sich, die bestuhlten Stühle abzuzählen, um beim Nachbestuhlen gezielt Stühle mitzählen zu können und so die Personenzahl zu ermitteln. Bei bekannten Produktionen am besten direkt 500 Stühle bestuhlen, dann gibt es auch keinen Stress und keine Diskussionen bezüglich Nachbestuhlung. Bei sehr hohem Andrang ist ein gestaffelter Einlass empfehlenswert, bei dem Türen zwischen Mensa und Foyer immer nur kurzzeitig geöffnet werden, damit im Saal der Überblick über freie Plätze besser gewährleistet werden kann.
+- Die 500 Personen sind die Obergrenze durch das Studierendenwerk. Bitte bedenkt, dass der Vertrag mit dem Verlag meistens auch eine maximale Besucheranzahl vorgibt, die nicht überschritten werden darf.
