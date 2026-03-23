@@ -19,8 +19,8 @@ Ihr könnt GEMA-Gebühren vermeiden, indem ihr Musik verwendet, die entweder gem
 Vor den Aufführungen muss dann über das Sekretariat der Studierendenvertretung die Veranstaltung bei der GEMA angemeldet werden.\
 Die anfallenden Kosten richten sich nach den Minuten der gespielten Musik und der Anzahl an Besucher:innen; zur Orientierung beim Sprechtheater dient dieses #link("https://www.gema.de/documents/20121/1599214/tarif_bm_version34-pdf/58f61fd3-efcd-94ac-f81f-5c7045901fdb?version=2.0&t=1761811873772")[GEMA-Onlinedokument]. 
 Wichtig zu beachten ist dabei vor allem, dass es einen Preissprung zwischen 450 und 500 Besucher:innen gibt und dass alles zwischen 1,5 und 45 Minuten je Vorstellung gespielter Musik bei uns als spendenbasiertes Theater gleich viel kostet. \
-Außerdem fällt für die öffentliche Wiedergabe noch die GVL an, die etwa 20% der GEMA-Gebühr beträgt.\
-Als kleine Referenz: Ein Stück mit 450 Besucher:innen und zwischen 1,5 und 45 Minuten gespielter Musik kostet damit aktuell ca. 91 € pro Aufführung, was bei den typischen 4 Aufführungen 364 € ergibt, die im Kostenvoranschlag berücksichtigt werden müssen.
+Außerdem fällt für die öffentliche Wiedergabe noch die GVL an, die bei uns meistens 25€ beträgt. Auf die Summe aus GEMA- und GVL-Kosten bekommen wir als Hochschule dann noch 20% Rabatt.\
+Als kleine Referenz: Ein Stück mit 450 Besucher:innen und zwischen 1,5 und 45 Minuten gespielter Musik kostet damit aktuell ca. 80 € pro Aufführung (75€ GEMA, 25€ GVL, 20€ Rabatt) die im Kostenvoranschlag berücksichtigt werden müssen. Bei 500 Besucher:innen wären es ca. 100€ pro Aufführung (100€ GEMA, 25€ GVL, 25€ Rabatt).
 
 == Haushaltsjahr
 Das Haushaltsjahr der StuV beginnt am 01.12. und endet am 30.11. eines Jahres. Die Fristen für Kostenvoranschläge und Abrechnungen orientieren sich an diesem Zeitraum.	\
