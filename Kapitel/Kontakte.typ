@@ -2,8 +2,8 @@
 
 #v(0.5cm)
 *Referatsleitung:*\
+- Anna Bakemaier\
 - Änni Oberdorfer\
-- Moritz Wübbena
 #table(
   stroke: none,
   columns: (auto, 1fr),
@@ -14,11 +14,12 @@
 *Orgateam:*\
 - Nex Arabschahi
 - Charlotte Gunia
-- Amelie Karger
-- Raphael Rado
+- Catharina Hamann
+- Elliot Musche
 - Julian Schmidt
 - Kathi Schricker
 - Julia Wolf
+- Moritz Wübbena
 #table(
   stroke: none,
   columns: (auto, 1fr),
