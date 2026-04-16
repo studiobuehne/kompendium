@@ -41,14 +41,6 @@
 
 #v(0.5cm)
 *Studierendenwerk:*\
-- Andreas Bundschuh (Catering und Raumverwaltung)
-#table(
-  stroke: none,
-  columns: (auto, 1fr),
-  [Telefon:], [0931 8005141],
-  [E-Mail:], [catering\@swerk-wue.de]
-)
-
 - Sebastian Lemos (Hausmeister)
 #table(
   stroke: none,
